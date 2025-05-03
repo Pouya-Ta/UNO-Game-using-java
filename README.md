@@ -11,7 +11,8 @@ Login screen:
 ![Login Screen](Photos/photo_2025-05-03-19-25-02.jpg)
 
 Game screen:  
-![Game Screen](Photos/photo_2025-05-03-19-25-02(2).jpg)
+![Game Screen](Photos/photo_2025-05-03-19-25-02%20(2).jpg)
+
 
 ---
 
