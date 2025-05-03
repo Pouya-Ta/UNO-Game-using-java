@@ -8,11 +8,10 @@ Explore the classic gameplay of UNO, complete with a login screen and an interac
 ## 📸 Preview
 
 Login screen:  
-![Login Screen](Photos/photo_2025-05-03-19-25-02.jpg)
+![Login Screen](Photos/login.png)
 
 Game screen:  
-![Game Screen](Photos/photo_2025-05-03-19-25-02%20(2).jpg)
-
+![Game Screen](Photos/game.png)
 
 ---
 
