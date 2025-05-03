@@ -1,2 +1,50 @@
-# UNO-Game-using-java
-Uno is an American shedding-type card game that is played with a specially printed deck. The game's general principles put it into the crazy eights family of card games, and it is similar to the traditional European game mau-mau.  It has been a Mattel brand since 1992. with help of java we can create our uno
+# UNO Game in Java
+
+A simple, single‐player UNO card game built with Java and JavaFX.  
+Explore the classic gameplay of UNO, complete with a login screen and an interactive game table.
+
+---
+
+## 📸 Preview
+
+Login screen:  
+![Login Screen](Photos/photo_2025-05-03-19-25-02.jpg)
+
+Game screen:  
+![Game Screen](Photos/photo_2025-05-03-19-25-02 (2).jpg)
+
+---
+
+## 🚀 Features
+
+- **User Authentication**  
+  A basic JavaFX‐powered login form (with “Remember me” support).
+
+- **UNO Gameplay**  
+  Draw, play, and match cards by color or number, including special action cards (Skip, Reverse, Draw Two, Wild, etc.).
+
+- **UI Layout**  
+  Built with FXML:  
+  - `login.fxml` for the login panel  
+  - `gameScene.fxml` for the card table  
+
+- **Modular Codebase**  
+  Includes core classes like `Card`, `Deck`, `Player`, and `GameEngine` packaged inside `FinalProjectAP.rar`.
+
+---
+
+## 🛠️ Built With
+
+- **Java 8+**  
+- **JavaFX** for UI  
+- **FXML** for layout  
+- **Maven** (optional) or manual compilation
+
+---
+
+## ⚙️ Getting Started
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/Pouya-Ta/UNO-Game-using-java.git
+   cd UNO-Game-using-java
